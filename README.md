@@ -180,7 +180,7 @@ ORDER BY total_revenue DESC;
 
 ### 🖼️ Dashboard Preview
 
-![Customer Shopping Behaviour Dashboard](https://github.com/neuralarin/Customer-Shopping-Behaviour-Analytics/blob/main/powerbi/dashboard.jpg)
+![Customer Shopping Behaviour Dashboard](https://github.com/curious-arin/Customer-Shopping-Behaviour-Analytics/blob/main/powerbi/dashboard.jpg)
 
 ## 📢 Final Recommendations
 
